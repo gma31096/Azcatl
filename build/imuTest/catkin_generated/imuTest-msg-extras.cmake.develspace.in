@@ -1,2 +1,0 @@
-set(imuTest_MESSAGE_FILES "")
-set(imuTest_SERVICE_FILES "")

@@ -1,6 +1,0 @@
-set(imuTest_SETUP_PY_VERSION "0.0.0")
-set(imuTest_SETUP_PY_SCRIPTS "")
-set(imuTest_SETUP_PY_PACKAGES "inicializador")
-set(imuTest_SETUP_PY_PACKAGE_DIRS "src/inicializador")
-set(imuTest_SETUP_PY_MODULES "")
-set(imuTest_SETUP_PY_MODULE_DIRS "")
